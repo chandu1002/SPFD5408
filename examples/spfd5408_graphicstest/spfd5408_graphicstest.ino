@@ -97,7 +97,7 @@ void setup(void) {
 
   // Code changed to works
 
-  tft.begin(0x9341); // SDFP5408
+  tft.begin(0x9325); // SDFP5408
 
   tft.setRotation(0); // Need for the Mega, please changed for your choice or rotation initial
 
